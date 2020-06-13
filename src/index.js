@@ -3,6 +3,7 @@ import 'regenerator-runtime/runtime';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
+import './assets/fonts/inter.css';
 import './assets/styles.css';
 import App from './app.js';
 import { basePath, rootPath } from './api';
