@@ -54,6 +54,6 @@ export const apiCall = async (endpoint, inParams = {}, inMethod = 'get') => {
 
 const Api = {
   apiCall
-}
+};
 
 export default Api;
